@@ -14,4 +14,4 @@ https://theboss-iota.vercel.app/#download:
 The builds are not signed yet. On macOS, right-click the app and choose Open the first time. On Windows, click
 More info, then Run anyway if SmartScreen shows up.
 
-This repository only holds the installers. The `Release` workflow builds them from the private source repository.
+This repository only holds the installers.
